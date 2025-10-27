@@ -1,0 +1,16 @@
+INSERT INTO animales (nombre, especie, edad, descripcion, estado, imagen, fecha_ingreso) VALUES
+('Luna',   'Gato', 1, 'Rescatada de un tejado en Llantaytambo, aún se asusta con ruidos fuertes.', 'Disponible', 'gatLuna.jpg', CURDATE()),
+('Simon',  'Gato', 3, 'Perdió una pata tras ser atropellado, pero salta y juega como cualquiera.', 'Disponible', 'gatSimon.jpg', CURDATE()),
+('Mia',    'Gato', 0.5, 'Encontrada dentro de una caja en el mercado, necesita mucho calor humano.', 'Disponible', 'gatMia.jpg', CURDATE()),
+('Olivia', 'Gato', 4, 'Su familia se mudó y la dejaron. Aún espera que la abracen de nuevo.', 'Disponible', 'gatOlivia.jpg', CURDATE()),
+('Thor',   'Gato', 2, 'Fue maltratado por niños, pero ronronea apenas sientes confianza.', 'Disponible', 'gatThor.jpg', CURDATE()),
+('Coco',   'Gato', 6, 'Se quedó sin hogar cuando su humano falleció. Busca un nuevo abuelo.', 'Disponible', 'gatCoco.jpg', CURDATE()),
+('Kira',   'Gato', 1.5, 'Escapó de un incendio y sobrevivió 5 días escondida. Es muy cariñosa.', 'Disponible', 'gatKira.jpg', CURDATE()),
+('Nube',   'Gato', 0.8, 'Nació en la calle, le encanta dormir en tu regazo mientras trabajas.', 'Disponible', 'gatNube.jpg', CURDATE()),
+('Romeo',  'Gato', 3, 'Le encanta mirar películas contigo. Fue rescatado de un basurero.', 'Disponible', 'gatRomeo.jpg', CURDATE()),
+('Cleo',   'Gato', 2.5, 'Sobrevivió a un envenenamiento masivo. Aún confía en los humanos.', 'Disponible', 'gatCleo.jpg', CURDATE()),
+('Zoe',    'Gato', 1, 'Le falta un ojo por infección, pero eso no le impide cazar juguetitos.', 'Disponible', 'gatZoe.jpg', CURDATE()),
+('Toby',   'Gato', 4, 'Vivió 3 años atado a una cuerda. Ahora aprende a ser libre.', 'Disponible', 'gatToby.jpg', CURDATE()),
+('Arya',   'Gato', 0.7, 'Encontrada con hipotermia tras una granizada. Le encanta el calor de las cobijas.', 'Disponible', 'gatArya.jpg', CURDATE()),
+('Loki',   'Gato', 5, 'Fue usado para cría intensiva. Ahora solo quiere dormir sin miedo.', 'Disponible', 'gatLoki.jpg', CURDATE()),
+('Misha',  'Gato', 1.2, 'Perdió a sus gatitos y busca abrazar a cualquier humano que la mire.', 'Disponible', 'gatMisha.jpg', CURDATE());
